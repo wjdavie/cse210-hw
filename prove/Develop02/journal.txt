@@ -1,0 +1,5 @@
+Date,Prompt,Response
+05/18/2024,Did you make someone else's day better? ,This is a test of a text file
+05/18/2024,What is one thing that I learned today? ,Entry 2 for text file
+05/18/2024,What was the best part of my day? ,Entry 3 for text file
+05/18/2024,Did you make someone else's day better? ,Text file test 4
