@@ -12,6 +12,6 @@ public class Entry
         Console.WriteLine($"Date: {_date} ");
         Console.WriteLine($"Prompt: {_prompt} ");
         Console.WriteLine($"{_userResponse} ");
-        Console.WriteLine(); //Adding a blank line bewteen entries.
+        Console.WriteLine(); //Adding a blank line between entries.
     }
 }
